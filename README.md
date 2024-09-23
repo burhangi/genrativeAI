@@ -1,1 +1,1 @@
-# genrativeAI
+# genrativeAIk
